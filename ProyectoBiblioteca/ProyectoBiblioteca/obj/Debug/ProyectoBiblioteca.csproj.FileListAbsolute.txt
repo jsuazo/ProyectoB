@@ -1,0 +1,13 @@
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe.config
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.pdb
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Categorias.resources
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Principal.resources
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Properties.Resources.resources
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.GenerateResource.Cache
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.exe
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.pdb
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Autor.resources
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Editorial.resources
+C:\Users\SUAZO\Desktop\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Autenticar.resources
